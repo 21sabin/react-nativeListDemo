@@ -1,0 +1,3 @@
+rootProject.name = 'listInReactNative'
+
+include ':app'
